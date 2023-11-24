@@ -1,1 +1,1 @@
-# typescript-curso-1-arquivos-iniciais
+# Curso de TypeScript parte 1: evoluindo seu JavaScript
