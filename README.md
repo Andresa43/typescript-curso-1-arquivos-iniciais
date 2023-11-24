@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://cursos.alura.com.br/course/typescript-evoluindo-javascript">TypeScript parte 1: evoluindo seu JavaScript</a></h1>
+<h1 align="center"> <a href="https://cursos.alura.com.br/course/typescript-evoluindo-javascript" target="_blank">TypeScript parte 1: evoluindo seu JavaScript</a></h1>
 
 <p align="center">Alura, escola de desenvolvedores<br/>
 
