@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://cursos.alura.com.br/course/typescript-evoluindo-javascript" target="_blank">TypeScript parte 1: evoluindo seu JavaScript</a></h1>
+<h1 align="center"> <a href="https://cursos.alura.com.br/formacao-typescript-v309729" target="_blank">Formação Typescript</a></h1>
 
 <p align="center">Alura, escola de desenvolvedores<br/>
 
@@ -36,6 +36,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * Seu volume é calculado multiplicando-se a quantidade
 negociada no dia pelo valor negociado 
 
+## 📖 Conceitos estudados:
+
+* Importância do Typescript, EcmaScript, compilador, arquivo tsconfig.json
+* Modificador private, public, protected e readonly 
+* Tipo implícito any, conversão de Data, Classes to tipo Generics 
+* Programação defensiva
+* Classes, herança, Enums
+* Formatação de datas usando Intl...
+* Método Static 
+* Parâmetros opcionais
 
 ## :memo: Licença
 

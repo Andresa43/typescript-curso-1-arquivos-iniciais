@@ -8,12 +8,12 @@ export class Negociacoes {
     //outra forma de declarar a minha propriedade
     // private negociacoes: Negociacao[] = []
 
-    adiciona(negociacao: Negociacao){
+    public adiciona(negociacao: Negociacao){
         this.negociacoes.push(negociacao)
     }
 
     //o readonly não permite alterar o array, somente leitura
-    lista(): ReadonlyArray<Negociacao>{
+    public lista(): ReadonlyArray<Negociacao>{
 
         //o mesmo serve para a tipagem do método
         // lista(): readonly Negociacao[]
