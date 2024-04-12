@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * Seu volume é calculado multiplicando-se a quantidade
 negociada no dia pelo valor negociado 
 
-## 📖 Conceitos estudados:
+## 📖 Conteúdos estudados:
 
 * Importância do Typescript, EcmaScript, compilador, arquivo tsconfig.json
 * Modificador private, public, protected e readonly 
